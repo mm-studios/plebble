@@ -5,3 +5,7 @@
 P2P distributed blockchain network of inexpensive nodes.
 
 https://plebble.io
+
+#Reproducible builds
+We are preparing the beta phase of Plebble.
+Source code will be published here by March-2021. 
